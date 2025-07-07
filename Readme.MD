@@ -22,7 +22,7 @@ Los principales pasos incluyen:
 - Análisis exploratorio con herramientas como Pandas y Spark.
 - Carga y almacenamiento en un entorno **Databricks** para visualización avanzada y procesamiento a gran escala.
 
-## 🧰 Herramientas Utilizadas
+# 🧰 Herramientas Utilizadas
 
 - 🐍 Python 3.11
 - 📊 Pandas y PySpark
